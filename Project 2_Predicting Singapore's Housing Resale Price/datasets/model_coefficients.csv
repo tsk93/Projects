@@ -1,85 +1,84 @@
 Feature,Coefficient Value,Category
-hdb_age,-3437.181384000781,hdb_age
-mid,3358.04301124688,storey
-max_floor_lvl,2798.38494366813,storey
-floor_area_sqft,308.4460314959,floor_area_sqft
-pri_sch_nearest_distance,10.590783496593644,sch
-sec_sch_nearest_dist,9.706293992554038,sch
-hawker_nearest_distance,-18.10528505838775,hawker
-mrt_nearest_distance,-58.25904777893696,mrt/bus
-bus_interchange,6904.620000433941,mrt/bus
-mrt_interchange,4099.51615913676,mrt/bus
-mall_nearest_distance,-16.22415862974958,mall
-planning_area_Bedok,-13054.566722909749,planning_area
-planning_area_Bishan,94979.4094615388,planning_area
-planning_area_Bukit Batok,-42022.71838469833,planning_area
-planning_area_Bukit Merah,86164.38572235465,planning_area
-planning_area_Bukit Panjang,-109099.5265382057,planning_area
-planning_area_Bukit Timah,155308.16192847717,planning_area
-planning_area_Changi,161491.07584681932,planning_area
-planning_area_Choa Chu Kang,-105278.92738125526,planning_area
-planning_area_Clementi,27550.680535423864,planning_area
-planning_area_Downtown Core,163828.89494515737,planning_area
-planning_area_Geylang,21103.136052876354,planning_area
-planning_area_Hougang,-48746.8407042931,planning_area
-planning_area_Jurong East,-49437.80692758775,planning_area
-planning_area_Jurong West,-90442.1857646716,planning_area
-planning_area_Kallang,32495.36104413492,planning_area
-planning_area_Marine Parade,202978.0444381912,planning_area
-planning_area_Novena,23259.253640628325,planning_area
-planning_area_Outram,77855.17687815957,planning_area
-planning_area_Pasir Ris,-59964.54379277707,planning_area
-planning_area_Punggol,-35263.860381837854,planning_area
-planning_area_Queenstown,78539.72567227426,planning_area
-planning_area_Rochor,14784.686593929213,planning_area
-planning_area_Sembawang,-142759.84348450796,planning_area
-planning_area_Sengkang,-73477.84349089931,planning_area
-planning_area_Serangoon,35113.97202804472,planning_area
-planning_area_Tampines,-25944.28863239279,planning_area
-planning_area_Tanglin,195739.11879484763,planning_area
-planning_area_Toa Payoh,33681.36543674925,planning_area
-planning_area_Western Water Catchment,-76009.70351456515,planning_area
-planning_area_Woodlands,-134796.46647938906,planning_area
-planning_area_Yishun,-77835.23824470887,planning_area
-full_flat_type_2 ROOM 2-room,14968.738915768547,full_flat_type
-full_flat_type_2 ROOM DBSS,-12538.807445940007,full_flat_type
-full_flat_type_2 ROOM Improved,-6690.792549102407,full_flat_type
-full_flat_type_2 ROOM Model A,-4553.099901525231,full_flat_type
-full_flat_type_2 ROOM Premium Apartment,15247.934608827387,full_flat_type
-full_flat_type_2 ROOM Standard,-17004.336779793037,full_flat_type
-full_flat_type_3 ROOM DBSS,62835.41696974908,full_flat_type
-full_flat_type_3 ROOM Improved,7519.021863125699,full_flat_type
-full_flat_type_3 ROOM Model A,31889.490502387293,full_flat_type
-full_flat_type_3 ROOM New Generation,30460.666343649453,full_flat_type
-full_flat_type_3 ROOM Premium Apartment,16644.13365214518,full_flat_type
-full_flat_type_3 ROOM Simplified,45779.55102487308,full_flat_type
-full_flat_type_3 ROOM Standard,13362.769770462046,full_flat_type
-full_flat_type_3 ROOM Terrace,438662.7339243632,full_flat_type
-full_flat_type_4 ROOM Adjoined flat,124289.52801396338,full_flat_type
-full_flat_type_4 ROOM DBSS,133862.192263994,full_flat_type
-full_flat_type_4 ROOM Improved,29653.56953286702,full_flat_type
-full_flat_type_4 ROOM Model A,37050.076423213344,full_flat_type
-full_flat_type_4 ROOM Model A2,43554.25657021784,full_flat_type
-full_flat_type_4 ROOM New Generation,50576.181458912324,full_flat_type
-full_flat_type_4 ROOM Premium Apartment,56178.27438296515,full_flat_type
-full_flat_type_4 ROOM Premium Apartment Loft,169105.16085008354,full_flat_type
-full_flat_type_4 ROOM Simplified,49995.86624070534,full_flat_type
-full_flat_type_4 ROOM Standard,61159.023848757744,full_flat_type
-full_flat_type_4 ROOM Terrace,469844.14681541256,full_flat_type
-full_flat_type_4 ROOM Type S1,144625.70272052407,full_flat_type
-full_flat_type_5 ROOM Adjoined flat,115867.0712359462,full_flat_type
-full_flat_type_5 ROOM DBSS,192328.07081481424,full_flat_type
-full_flat_type_5 ROOM Improved,54907.83990147643,full_flat_type
-full_flat_type_5 ROOM Improved-Maisonette,228385.8659782777,full_flat_type
-full_flat_type_5 ROOM Model A,46064.996657039024,full_flat_type
-full_flat_type_5 ROOM Model A-Maisonette,165642.57714048313,full_flat_type
-full_flat_type_5 ROOM Premium Apartment,54108.34405100101,full_flat_type
-full_flat_type_5 ROOM Premium Apartment Loft,211134.40787407066,full_flat_type
-full_flat_type_5 ROOM Standard,92040.09859864364,full_flat_type
-full_flat_type_5 ROOM Type S2,219064.16216103255,full_flat_type
-full_flat_type_EXECUTIVE Adjoined flat,161194.99740656163,full_flat_type
-full_flat_type_EXECUTIVE Apartment,99554.68750158462,full_flat_type
-full_flat_type_EXECUTIVE Maisonette,130652.626938238,full_flat_type
-full_flat_type_EXECUTIVE Premium Apartment,74852.80023588409,full_flat_type
-full_flat_type_EXECUTIVE Premium Maisonette,162809.69049044827,full_flat_type
-full_flat_type_MULTI-GENERATION Multi Generation,191499.303210011,full_flat_type
+hdb_age,-3444.871548306456,hdb_age
+mid,3315.4215623821497,storey
+max_floor_lvl,2876.386507979793,storey
+floor_area_sqft,306.01429436492515,floor_area_sqft
+pri_sch_nearest_distance,13.386515741712742,sch
+sec_sch_nearest_dist,10.317190703645338,sch
+hawker_nearest_distance,-18.59598099937992,hawker
+mrt_nearest_distance,-58.71588644248196,mrt/bus
+bus_interchange,6475.7676227962365,mrt/bus
+mrt_interchange,3601.692995849419,mrt/bus
+mall_nearest_distance,-17.20916959647002,mall
+planning_area_Bedok,-11655.722622648493,planning_area
+planning_area_Bishan,96270.46248173992,planning_area
+planning_area_Bukit Batok,-42146.291642087606,planning_area
+planning_area_Bukit Merah,86403.05051705329,planning_area
+planning_area_Bukit Panjang,-108938.92514642324,planning_area
+planning_area_Bukit Timah,140650.91379103146,planning_area
+planning_area_Changi,161491.65188591962,planning_area
+planning_area_Choa Chu Kang,-105325.78070151749,planning_area
+planning_area_Clementi,27192.25447504696,planning_area
+planning_area_Downtown Core,151849.06450089652,planning_area
+planning_area_Geylang,19491.678475733985,planning_area
+planning_area_Hougang,-47326.2814501068,planning_area
+planning_area_Jurong East,-49571.75437710013,planning_area
+planning_area_Jurong West,-90373.65092455411,planning_area
+planning_area_Kallang,31449.436879134188,planning_area
+planning_area_Marine Parade,210746.6032724894,planning_area
+planning_area_Novena,24304.709419285795,planning_area
+planning_area_Outram,84128.50833000847,planning_area
+planning_area_Pasir Ris,-59891.56052010522,planning_area
+planning_area_Punggol,-35546.14523009974,planning_area
+planning_area_Queenstown,80623.76078722258,planning_area
+planning_area_Rochor,14754.404959651441,planning_area
+planning_area_Sembawang,-141845.92356217004,planning_area
+planning_area_Sengkang,-73514.97513901322,planning_area
+planning_area_Serangoon,35642.15702873986,planning_area
+planning_area_Tampines,-25713.245421676755,planning_area
+planning_area_Tanglin,183486.4715803569,planning_area
+planning_area_Toa Payoh,32983.470559221634,planning_area
+planning_area_Western Water Catchment,-65051.82791824452,planning_area
+planning_area_Woodlands,-135596.46793901088,planning_area
+planning_area_Yishun,-77590.55373390713,planning_area
+full_flat_type_2 ROOM 2-room,-28378.34475023999,full_flat_type
+full_flat_type_2 ROOM Improved,-1413.8539052650583,full_flat_type
+full_flat_type_2 ROOM Model A,-12017.364563794035,full_flat_type
+full_flat_type_2 ROOM Premium Apartment,19391.183006568892,full_flat_type
+full_flat_type_2 ROOM Standard,-16703.57419663069,full_flat_type
+full_flat_type_3 ROOM DBSS,46649.08795023023,full_flat_type
+full_flat_type_3 ROOM Improved,8332.628853511265,full_flat_type
+full_flat_type_3 ROOM Model A,34019.099382990666,full_flat_type
+full_flat_type_3 ROOM New Generation,32427.575751209515,full_flat_type
+full_flat_type_3 ROOM Premium Apartment,19168.256855126278,full_flat_type
+full_flat_type_3 ROOM Simplified,44658.46256686092,full_flat_type
+full_flat_type_3 ROOM Standard,13673.124016849562,full_flat_type
+full_flat_type_3 ROOM Terrace,426842.9150580915,full_flat_type
+full_flat_type_4 ROOM Adjoined flat,87650.44090002654,full_flat_type
+full_flat_type_4 ROOM DBSS,129600.74100204982,full_flat_type
+full_flat_type_4 ROOM Improved,28744.044250477717,full_flat_type
+full_flat_type_4 ROOM Model A,39827.553036137935,full_flat_type
+full_flat_type_4 ROOM Model A2,45647.03831180094,full_flat_type
+full_flat_type_4 ROOM New Generation,51146.20796825846,full_flat_type
+full_flat_type_4 ROOM Premium Apartment,60810.38648593643,full_flat_type
+full_flat_type_4 ROOM Premium Apartment Loft,170075.0363512769,full_flat_type
+full_flat_type_4 ROOM Simplified,52103.03247687617,full_flat_type
+full_flat_type_4 ROOM Standard,67610.24831509519,full_flat_type
+full_flat_type_4 ROOM Terrace,478826.27154014586,full_flat_type
+full_flat_type_4 ROOM Type S1,139595.4646187514,full_flat_type
+full_flat_type_5 ROOM Adjoined flat,132795.5398264456,full_flat_type
+full_flat_type_5 ROOM DBSS,191043.8996739187,full_flat_type
+full_flat_type_5 ROOM Improved,58219.53683478932,full_flat_type
+full_flat_type_5 ROOM Improved-Maisonette,235996.42892261661,full_flat_type
+full_flat_type_5 ROOM Model A,49011.76318839315,full_flat_type
+full_flat_type_5 ROOM Model A-Maisonette,177721.4099026193,full_flat_type
+full_flat_type_5 ROOM Premium Apartment,58474.24341279157,full_flat_type
+full_flat_type_5 ROOM Premium Apartment Loft,206862.45394239016,full_flat_type
+full_flat_type_5 ROOM Standard,89771.83153296403,full_flat_type
+full_flat_type_5 ROOM Type S2,227656.73057308936,full_flat_type
+full_flat_type_EXECUTIVE Adjoined flat,170150.59608572125,full_flat_type
+full_flat_type_EXECUTIVE Apartment,102235.57605278904,full_flat_type
+full_flat_type_EXECUTIVE Maisonette,134839.75799697888,full_flat_type
+full_flat_type_EXECUTIVE Premium Apartment,77900.01810647613,full_flat_type
+full_flat_type_EXECUTIVE Premium Maisonette,127121.27788656094,full_flat_type
+full_flat_type_MULTI-GENERATION Multi Generation,191438.75185487745,full_flat_type
